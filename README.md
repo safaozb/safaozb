@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm 1Rip!
 ![Profile views](https://gpvc.arturio.dev/1ripxd)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/223681222834913281)](https://discord.com/users/223681222834913281)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/223681222834913281)](https://discord.com/users/796779298077540422)
 
 I like to code in my own way.
 
